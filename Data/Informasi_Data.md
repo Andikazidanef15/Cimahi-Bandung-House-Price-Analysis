@@ -7,8 +7,8 @@ Data ini mengandung informasi fitur sebagai berikut:
 3. Harga: Harga rumah yang dijual (Rp),
 4. Jumlah Kamar Tidur: Jumlah kamar tidur dari rumah yang dijual,
 5. Jumlah Kamar Mandi: Jumlah kamar mandi dari rumah yang dijual,
-6. Total Area: Luas bangunan ($m^2$),
-7. Harga per Area: Harga per 1 $m^2$,
+6. Total Area: Luas bangunan (m²),
+7. Harga per Area: Harga per 1 m²,
 8. Jenis Properti: Jenis properti yang dijual,
 9. Sertifikat Rumah: Jenis sertifikasi penjualan rumah,
 10. Tanggal Posting: Tanggal rumah tersebut dijual (Format: YYYY-MM-DD HH:MM:SS)
