@@ -7,4 +7,8 @@ Dalam repo ini terdapat 2 folder sebagai berikut:
   * Data_Rumah_Bandung_Cleaned.xlsx, dan
   * Data_Rumah_Cimahi_Cleaned.xlsx
 * Kode: Berisi 2 kode Python Notebook yaitu:
-  * 
+  * Analisis Data Rumah di Cimahi dan Bandung.ipynb,
+  * Webscraping_Harga_Rumah.ipynb
+
+# TLDR
+
