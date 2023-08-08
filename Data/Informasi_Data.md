@@ -1,3 +1,6 @@
+# Informasi Data
+Data rumah di Kota Bandung dan Cimahi diambil dari Rumah.com sebanyak 130 dan 2400 pages berturut-turut.
+
 Data ini mengandung informasi fitur sebagai berikut:
 1. Nama: Judul rumah yang dijual,
 2. Lokasi: Lokasi rumah yang dijual,
